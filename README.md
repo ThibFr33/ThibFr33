@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Thibault</h1>
-<h3 align="center">I have just finish my 9 week bootcamp at Le Wagon Bordeaux and ready to carry on my journey of junior web developer</h3>
+<h3 align="center">I have just finished my 9 week bootcamp at Le Wagon Bordeaux and ready to carry on my journey of junior web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibfr33&label=Profile%20views&color=0e75b6&style=flat" alt="thibfr33" /> </p>
 
