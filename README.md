@@ -20,7 +20,7 @@
 <td valign="top" width="50%">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 
 </td>
 
